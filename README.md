@@ -1,6 +1,6 @@
 # DailyMentalModels
 
-#To try it out:
+## To try it out:
 <br>
 </br>
 1: Clone repo
