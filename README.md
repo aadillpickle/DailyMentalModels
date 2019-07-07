@@ -1,8 +1,6 @@
 # DailyMentalModels
 
 ## To try it out:
-<br>
-</br>
 1: Clone repo
 <br>
 2: Install packages from requirements.txt 
